@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Wish Item">b2a957f8f03003107f449da3baf3ca40</application>
+        <filter/>
+        <name>Wish Items</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_wishlist.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-09 19:45:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>72a957f8f03003107f449da3baf3ca42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wish Items</sys_name>
+        <sys_package display_value="WishList" source="x_snc_wishlist">1c369b38f03003107f449da3baf3cabe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WishList">1c369b38f03003107f449da3baf3cabe</sys_scope>
+        <sys_update_name>sys_ui_module_72a957f8f03003107f449da3baf3ca42</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-09 19:45:50</sys_updated_on>
+        <table>x_snc_wishlist_wish_item</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
